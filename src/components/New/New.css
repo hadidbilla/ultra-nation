@@ -1,0 +1,11 @@
+.country {
+  display: flex;
+}
+.single-img img {
+  width: 200px;
+  margin-right: 20px;
+}
+.single-img {
+  display: flex;
+  align-items: center;
+}
